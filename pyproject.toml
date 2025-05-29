@@ -1,6 +1,6 @@
 [project]
-name = "pii"
-version = "0.1.0"
+name = "cancerdata-cancerdata-pii"
+version = "0.1.1"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.10"
@@ -25,9 +25,9 @@ dependencies = [
     "twine>=6.1.0",
 ]
 [project.urls]
-Homepage = "https://github.com/smeisegeier/pii"
-Repository = "https://github.com/smeisegeier/pii"
-"Bug Tracker" = "https://github.com/smeisegeier/pii/issues"
+Homepage = "https://github.com/smeisegeier/cancerdata-pii"
+Repository = "https://github.com/smeisegeier/cancerdata-pii"
+"Bug Tracker" = "https://github.com/smeisegeier/cancerdata-pii/issues"
 
 [build-system]
 requires = ["hatchling"] # Use hatchling as the build tool
